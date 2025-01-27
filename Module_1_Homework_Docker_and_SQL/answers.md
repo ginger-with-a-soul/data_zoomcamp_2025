@@ -1,5 +1,5 @@
 # Answer 1. Understanding docker first run
-![Dockefile used]('01.png')
+![Dockefile used](01.png)
 - 24.3.1
 
 # Answer 2. Understanding Docker networking and docker-compose
